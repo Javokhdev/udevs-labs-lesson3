@@ -20,7 +20,7 @@ This is a simple Node.js project designed to demonstrate basic project structure
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/udevs-labs-lesson3.git
+   git clone git@github.com:Javokhdev/udevs-labs-lesson3.git
    ```
 
 2. Navigate to the project directory:
