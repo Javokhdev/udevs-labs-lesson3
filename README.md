@@ -43,7 +43,7 @@ This is a simple Node.js project designed to demonstrate basic project structure
     or
 
     ```bash
-    docker compose ub --build
+    docker compose up --build -d
     ```
 
 The server will be running on http://localhost:3000/api-docs/#/. You can access the routes for products and orders from the defined endpoints.
